@@ -11,5 +11,5 @@
 ├── Chapter01/       # 시작하기: ChatGPT와 데이터 분석의 만남
 ├── Chapter02/       # 데이터 정리부터 시작! ChatGPT로 전처리 쉽게 하기
 ├── Chapter03/       # 데이터 시각화 – 차트 하나로 핵심 인사이트 얻기
-├── Chapter04/       # C실전 프로젝트 – ChatGPT와 함께하는 데이터 분석 사례
-└── datasets/        # 샘플 데이터셋 (csv, excel 등)
+└── Chapter04/       # 실전 프로젝트 – ChatGPT와 함께하는 데이터 분석 사례
+ 
