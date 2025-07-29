@@ -1,0 +1,5 @@
+Name,Age,Email,City
+Alice,29.0,alice@email.com,Seoul
+Bob,,bob@email.com,Busan
+Charlie,35.0,,Incheon
+David,,david@email.com,

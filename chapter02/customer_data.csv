@@ -1,0 +1,5 @@
+CustomerID,Age,JoinDate,IsMember
+C001,28,2023-01-10,yes
+C002,"""30""",2023-03-05,no
+C003,35,"March 20, 2023",Yes
+C004,,,NO
